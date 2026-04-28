@@ -31,10 +31,10 @@ Prepare for coding interviews and placement exams
 
 Each file contains a separate question and its solution:
 
-Que1.java
-Que2.java
-Que3.java
-...
+    Que1.java
+    Que2.java
+    Que3.java
+    ...
 
 ---
 
