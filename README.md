@@ -42,6 +42,8 @@ Each file contains a separate question and its solution:
 
 This is an ongoing practice repository. More problems and optimized solutions will be added over time.
 
-💡 Note
+---
+
+## 💡 Note
 
 The focus of this repository is consistent practice and understanding different problem patterns rather than just solving questions.
